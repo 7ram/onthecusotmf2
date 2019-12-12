@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`CODE 3bodaa`,"http://twitch.tv/DeathShop")
+client.user.setGame(`CODE TM_SCAR`,"http://twitch.tv/DeathShop")
 client.user.setStatus("dnd")
 });
 
